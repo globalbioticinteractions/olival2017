@@ -1,0 +1,7 @@
+{
+  "citation": "Olival, K. J., Hosseini, P. R., Zambrana-Torrelio, C., Ross, N., Bogich, T. L., & Daszak, P. (2017). Host and viral traits predict zoonotic spillover from mammals. Nature, 546(7660), 646–650. doi:10.1038/nature22975",
+  "doi":"10.1038/nature22975",
+  "resources": {
+    "/interactions.csv": "https://raw.githubusercontent.com/arw36/HP3/DataClean_Spring2018/data/globi_interactions.csv"
+  }
+}
