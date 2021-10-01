@@ -1,5 +1,5 @@
 # olival2017
-[![Build Status](https://travis-ci.com/globalbioticinteractions/olival2017.svg)](https://travis-ci.com/globalbioticinteractions/olival2017) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/olival2017)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/olival2017)
+[![Build Status](https://app.travis-ci.com/globalbioticinteractions/olival2017.svg)](https://app.travis-ci.com/globalbioticinteractions/olival2017) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/olival2017)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/olival2017)
 
 Host-pathogen data from https://github.com/ecohealthalliance/HP3 prepared for indexing by https://globalbioticinteractions.org (GloBI) by Anna Willoughby.
 
